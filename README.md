@@ -17,11 +17,67 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shannonsequeira&show_icons=true&theme=dark&title_color=40E0D0&icon_color=40E0D0&text_color=ffffff&bg_color=000000" alt="shannonsequeira's GitHub Stats"/>
 </p>
---><!--
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shannonsequeira&layout=compact&theme=dark&title_color=40E0D0&icon_color=40E0D0&text_color=ffffff&bg_color=000000" alt="shannonsequeira's Top Languages"/>
-<!--</p>-->
+-->
+<!--<p align="center"></p>-->
 
 <!--<p align="center">-->&nbsp &nbsp
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shannonsequeira&theme=black-ice&ring=40E0D0&fire=40E0D0&currStreakNum=40E0D0&sideNums=40E0D0&sideLabels=ffffff&dates=ffffff&background=000000" alt="shannonsequeira's GitHub Streak"/>
-</p>
+  <div style="display: flex; align-items: center;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shannonsequeira&theme=black-ice&ring=40E0D0&fire=40E0D0&currStreakNum=40E0D0&sideNums=40E0D0&sideLabels=ffffff&dates=ffffff&background=000000" alt="shannonsequeira's GitHub Streak" style="margin-right: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shannonsequeira&layout=compact&theme=dark&title_color=40E0D0&icon_color=40E0D0&text_color=ffffff&bg_color=000000" alt="shannonsequeira's Top Languages"/>
+</div>
+<!--</p>-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<h1>REPOSITORIES</h1>
+</head>
+<body>
+  <div class="card-container">
+    <div class="card">
+      <h2>Temperature Conversion Program ( Celsius | Fahrenheit | Kelvin ) <a href="https://github.com/shannonsequeira/PRODIGY_SD_01.git" target="_blank">🔗</a></h2>
+    </div>
+    <div class="card">
+      <h2>Guessing Game (Number) <a href="https://github.com/shannonsequeira/PRODIGY_SD_02.git" target="_blank">🔗</a></h2>
+    </div>
+    <div class="card">
+      <h2>Contact Management System App (CRUD) <a href="https://github.com/shannonsequeira/PRODIGY_SD_03.git" target="_blank">🔗</a></h2>
+    </div>
+    <div class="card">
+      <h2>Sudoku Solver (Interactive GUI) <a href="https://github.com/shannonsequeira/PRODIGY_SD_04" target="_blank">🔗</a></h2>
+    </div>
+    <div class="card">
+      <h2>Web Scraping (E-commerce Products) <a href="https://github.com/shannonsequeira/PRODIGY_SD_05" target="_blank">🔗</a></h2>
+    </div>
+    <div class="card">
+      <h2>Celestia Portfolio <a href="https://github.com/shannonsequeira/celestial-portfolio" target="_blank">🔗</a></h2>
+    </div>
+    <div class="card">
+      <h2>Naruto API <a href="https://github.com/shannonsequeira/naruto_api_assgnt" target="_blank">🔗</a></h2>
+    </div>
+    <div class="card">
+      <h2>Library Management System <a href="https://github.com/shannonsequeira/Library-Management-System" target="_blank">🔗</a></h2>
+    </div>
+    <div class="card">
+      <h2>Simple Java Calculator <a href="https://github.com/shannonsequeira/Simple-Calculator" target="_blank">🔗</a></h2>
+    </div>
+    <div class="card">
+      <h2>Gatherly (Event Management) <a href="https://github.com/shannonsequeira/event-management-system" target="_blank">🔗</a></h2>
+    </div>
+    <div class="card">
+      <h2>UCMS <a href="https://github.com/2340-shannon/dbmsprojectworkspace" target="_blank">🔗</a></h2>
+    </div>
+    <div class="card">
+      <h2>DSA with C <a href="https://github.com/2340-shannon/dsaworkspace" target="_blank">🔗</a></h2>
+    </div>
+    <div class="card">
+      <h2>Java Mini Games <a href="https://github.com/allieah/JavaMiniGames" target="_blank">🔗</a></h2>
+    </div>
+    <div class="card">
+      <h2>House Nav <a href="https://github.com/2340-shannon/house-nav-oop" target="_blank">🔗</a></h2>
+    </div>
+  </div>
+</body>
+</html>
+
+
