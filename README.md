@@ -35,46 +35,45 @@
 <body>
   <div class="card-container">
     <div class="card">
-      <h2>Temperature Conversion Program ( Celsius | Fahrenheit | Kelvin ) <a href="https://github.com/shannonsequeira/PRODIGY_SD_01.git" target="_blank">🔗</a></h2>
+      <h4>Temperature Conversion Program <a href="https://github.com/shannonsequeira/PRODIGY_SD_01.git" target="_blank">🔗</a></h2>
+    <div class="card">
+      <h4>Guessing Game (Number) <a href="https://github.com/shannonsequeira/PRODIGY_SD_02.git" target="_blank">🔗</a></h2>
     </div>
     <div class="card">
-      <h2>Guessing Game (Number) <a href="https://github.com/shannonsequeira/PRODIGY_SD_02.git" target="_blank">🔗</a></h2>
+      <h4>Contact Management System App (CRUD) <a href="https://github.com/shannonsequeira/PRODIGY_SD_03.git" target="_blank">🔗</a></h2>
     </div>
     <div class="card">
-      <h2>Contact Management System App (CRUD) <a href="https://github.com/shannonsequeira/PRODIGY_SD_03.git" target="_blank">🔗</a></h2>
+      <h4>Sudoku Solver <a href="https://github.com/shannonsequeira/PRODIGY_SD_04" target="_blank">🔗</a></h2>
     </div>
     <div class="card">
-      <h2>Sudoku Solver (Interactive GUI) <a href="https://github.com/shannonsequeira/PRODIGY_SD_04" target="_blank">🔗</a></h2>
+      <h4>Web Scraping (E-commerce Products) <a href="https://github.com/shannonsequeira/PRODIGY_SD_05" target="_blank">🔗</a></h2>
     </div>
     <div class="card">
-      <h2>Web Scraping (E-commerce Products) <a href="https://github.com/shannonsequeira/PRODIGY_SD_05" target="_blank">🔗</a></h2>
+      <h4>Celestia Portfolio <a href="https://github.com/shannonsequeira/celestial-portfolio" target="_blank">🔗</a></h2>
     </div>
     <div class="card">
-      <h2>Celestia Portfolio <a href="https://github.com/shannonsequeira/celestial-portfolio" target="_blank">🔗</a></h2>
+      <h4>Naruto API <a href="https://github.com/shannonsequeira/naruto_api_assgnt" target="_blank">🔗</a></h2>
     </div>
     <div class="card">
-      <h2>Naruto API <a href="https://github.com/shannonsequeira/naruto_api_assgnt" target="_blank">🔗</a></h2>
+      <h4>Library Management System <a href="https://github.com/shannonsequeira/Library-Management-System" target="_blank">🔗</a></h2>
     </div>
     <div class="card">
-      <h2>Library Management System <a href="https://github.com/shannonsequeira/Library-Management-System" target="_blank">🔗</a></h2>
+      <h4>Simple Java Calculator <a href="https://github.com/shannonsequeira/Simple-Calculator" target="_blank">🔗</a></h2>
     </div>
     <div class="card">
-      <h2>Simple Java Calculator <a href="https://github.com/shannonsequeira/Simple-Calculator" target="_blank">🔗</a></h2>
+      <h4>Gatherly (Event Management) <a href="https://github.com/shannonsequeira/event-management-system" target="_blank">🔗</a></h2>
     </div>
     <div class="card">
-      <h2>Gatherly (Event Management) <a href="https://github.com/shannonsequeira/event-management-system" target="_blank">🔗</a></h2>
+      <h4>UCMS <a href="https://github.com/2340-shannon/dbmsprojectworkspace" target="_blank">🔗</a></h2>
     </div>
     <div class="card">
-      <h2>UCMS <a href="https://github.com/2340-shannon/dbmsprojectworkspace" target="_blank">🔗</a></h2>
+      <h4>DSA with C <a href="https://github.com/2340-shannon/dsaworkspace" target="_blank">🔗</a></h2>
     </div>
     <div class="card">
-      <h2>DSA with C <a href="https://github.com/2340-shannon/dsaworkspace" target="_blank">🔗</a></h2>
+      <h4>Java Mini Games <a href="https://github.com/allieah/JavaMiniGames" target="_blank">🔗</a></h2>
     </div>
     <div class="card">
-      <h2>Java Mini Games <a href="https://github.com/allieah/JavaMiniGames" target="_blank">🔗</a></h2>
-    </div>
-    <div class="card">
-      <h2>House Nav <a href="https://github.com/2340-shannon/house-nav-oop" target="_blank">🔗</a></h2>
+      <h4>House Nav <a href="https://github.com/2340-shannon/house-nav-oop" target="_blank">🔗</a></h2>
     </div>
   </div>
 </body>
