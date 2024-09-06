@@ -58,7 +58,7 @@
       <h4>Library Management System <a href="https://github.com/shannonsequeira/Library-Management-System" target="_blank">🔗</a></h2>
     </div>
     <div class="card">
-      <h4>Simple Java Calculator <a href="https://github.com/shannonsequeira/Simple-Calculator" target="_blank">🔗</a></h2>
+      <h4>Sentiment Analysis <a href="https://github.com/shannonsequeira/iphone-sentiment-analysis" target="_blank">🔗</a></h2>
     </div>
     <div class="card">
       <h4>Gatherly (Event Management) <a href="https://github.com/shannonsequeira/event-management-system" target="_blank">🔗</a></h2>
@@ -72,9 +72,9 @@
     <div class="card">
       <h4>Java Mini Games <a href="https://github.com/allieah/JavaMiniGames" target="_blank">🔗</a></h2>
     </div>
-    <div class="card">
+<!--     <div class="card">
       <h4>House Nav <a href="https://github.com/2340-shannon/house-nav-oop" target="_blank">🔗</a></h2>
-    </div>
+    </div> -->
   </div>
 </body>
 </html>
